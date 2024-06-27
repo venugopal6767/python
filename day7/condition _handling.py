@@ -7,4 +7,4 @@ if type == "t2.micro":
 elif type == "t2.medium":
     print(" the instance is t2.medium and it will charge you 4 dollars")
 else:
-    print("provide valid a instance type")
+    print("provide valid an instance type")
